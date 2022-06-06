@@ -2,6 +2,8 @@
 
 ## **Denys Telychko**
 
+![photo] (https://sun1.userapi.com/sun1-27/s/v1/ig2/RISLN2wOW9K8DDK6_IjLvw7HpcqEG_JsRdgm2345MKfReII7KV4tUuyLLUOz0YoJ_huy-mARchF98iY9Q591d3CK.jpg?size=400x400&quality=96&crop=191,290,1084,1085&ava=1)
+
 ### front-end web developer
 
 ## Contacts:
@@ -9,6 +11,9 @@
 - Location: _Saint-Petersburg_, **Russia**
 - Phone: +79650273676
 - e-mail: denys_telychko@icloud.com
+
+* Discord: Denys Telychko
+
 - [GitHub:] (https://github.com/sugardaddy92)
 
 ## About Me:
@@ -98,9 +103,14 @@ function generateMeme(img, topText, bottomText, topTextSize, bottomTextSize) {
   });
 ```
 
-## Courses
+## Courses:
 
-*Udemi web developer 2022 (in Progress)
-*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- Udemi web developer 2022 (in Progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- FreeCode Camp
 
--
+## Languages:
+
+- English: Upper-Intermidiate
+
+*
