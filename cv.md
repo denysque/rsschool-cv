@@ -108,5 +108,3 @@ function generateMeme(img, topText, bottomText, topTextSize, bottomTextSize) {
 - FreeCode Camp
 
 ## Languages:
-
-- English: Upper-Intermidiate
