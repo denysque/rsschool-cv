@@ -2,9 +2,7 @@
 
 ## **Denys Telychko**
 
-![photo] (https://sun1.userapi.com/sun1-27/s/v1/ig2/RISLN2wOW9K8DDK6_IjLvw7HpcqEG_JsRdgm2345MKfReII7KV4tUuyLLUOz0YoJ_huy-mARchF98iY9Q591d3CK.jpg?size=400x400&quality=96&crop=191,290,1084,1085&ava=1)
-
-### front-end web developer
+### Junior front-end web developer
 
 ## Contacts:
 
@@ -112,5 +110,3 @@ function generateMeme(img, topText, bottomText, topTextSize, bottomTextSize) {
 ## Languages:
 
 - English: Upper-Intermidiate
-
-*
