@@ -3,6 +3,9 @@ body {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
+        min-height: 100vh;
+        margin: 0; padding: 0;
+        
 }
 * {
     box-sizing: border-box;
@@ -10,6 +13,7 @@ body {
   .container {
     max-width: 1440px;
     margin: 0 auto;
+   
   }
   .nav-list {
     display: flex;
@@ -40,6 +44,7 @@ body {
   .main-container {
     display: flex;
     flex-wrap: wrap;
+    border: 1px solid red;
   }
   
   .section {
@@ -64,6 +69,14 @@ body {
     letter-spacing: 5px;
     color: #829985;
   }
+  .section-skills {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+
+  }
   .link {
     text-decoration: none;
     color: #829985;
@@ -80,4 +93,19 @@ body {
     background-image: url("./assets/svg/rss.svg");
     background-size: contain;
     background-repeat: no-repeat;
+  }
+  .section-item {
+    position: relative;
+    padding-left: 30px;
+  }
+  
+  .section-item::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px; 
+    border: 1px solid #829985;
+    border-radius: 50%;
   }
